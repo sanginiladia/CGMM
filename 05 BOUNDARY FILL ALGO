@@ -1,7 +1,3 @@
-
-
-//Boundary fill algorithm
-
 #include<iostream.h>
 #include<graphics.h>
 #include<conio.h>
